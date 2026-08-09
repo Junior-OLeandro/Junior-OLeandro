@@ -24,7 +24,7 @@
   <a href="https://junior-oleandro.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%230078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:junior.oleandrobq@gmail.com">
+  <a href="mailto:junior.oleandro92@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/junior-oleandro" target="_blank">
